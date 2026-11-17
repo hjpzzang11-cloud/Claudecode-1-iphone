@@ -1,0 +1,1 @@
+Source: https://github.com/rebelytics/one-skill-to-rule-them-all @ b8f8b83 (skills/task-observer), CC BY 4.0
